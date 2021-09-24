@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**aryahdyt/aryahdyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Here are some ideas to get you started: -->
+---
+## 🔧 Languages and Tools that i use :
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on Laravel & React Native
+- 🌱 I’m currently learning Laravel & React Native
+ -->
+# ✏️ My github stats (bad stats :'/ ) 
+<div style="width:100%; ">
+<a href="https://github-readme-stats.vercel.app/api?username=aryahdyt&show_icons=true&include_all_commits=true&theme=dracula">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=aryahdyt&show_icons=true&include_all_commits=true&theme=dark" alt="aryahdyt github stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aryahdyt&theme=dark">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryahdyt&theme=dark" />
+</a>
+</div>
+<hr/>
